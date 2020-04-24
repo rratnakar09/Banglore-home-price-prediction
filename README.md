@@ -6,7 +6,7 @@ Buying a home, especially in a city like Bengaluru, is a tricky choice. While th
 
 ## __Resources:__
 Dataset is available on Kaggle</br>
-Link:https://www.kaggle.com/amitabhajoy/bengaluru-house-price-data. 
-Tutorial used:
+Link:https://www.kaggle.com/amitabhajoy/bengaluru-house-price-data</br> 
+Tutorial used:</br>
 YouTube: https://www.youtube.com/watch?v=rdfbcdP75KI
 
